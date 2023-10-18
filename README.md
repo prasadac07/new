@@ -1,1 +1,1 @@
-#This is my local repo
+#This is my local repo process:1 git add . then git commit -m "comment" then git push
